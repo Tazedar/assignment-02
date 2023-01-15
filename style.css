@@ -208,4 +208,46 @@ margin-left: 60px;
     bottom: 22px;
     left: 15px;
 }
-
+.body-3{
+    margin-top: 120px;
+    margin-bottom: 110px;
+}
+.fact{
+    margin-left: 170px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.fact-description{
+    margin-left: 170px;
+    width: 520px;
+}
+/* container-3 */
+.container-3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 180px;
+}
+.icon{
+    border: 3px solid orange;
+    width: 220px;
+    height: 160px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 80px;
+}
+.img-icn{
+    width: 35px;
+    height: 35px;
+    margin-bottom: 8px;
+}
+.img-num{
+    color: #424242;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+.para-1{
+    color: #727272;
+    font-size: 15px;
+    font-weight: 600;
+}
