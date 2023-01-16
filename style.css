@@ -234,7 +234,12 @@ margin-left: 60px;
     justify-content: center;
     text-align: center;
     padding-top: 80px;
+    transition: transform 2s ease-in-out;
 }
+.icon:hover{
+    transform: scale(0.75) rotate(360deg) ;
+}
+
 .img-icn{
     width: 35px;
     height: 35px;
