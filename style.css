@@ -30,7 +30,7 @@ nav ul li{
 .g-3{
     font-weight: 700;
 font-size: 22px;
-margin: 50px 560px 100px 160px;
+margin: 50px 560px 100px 100px;
 color: #131313;
 }
 .li{
@@ -251,3 +251,60 @@ margin-left: 60px;
     font-size: 15px;
     font-weight: 600;
 }
+/* body-4 */
+.body-4{
+    margin-left: 570px;
+    width: 542px;
+    text-align: center;
+}
+.sponsor{
+    margin-bottom: 24px;
+    font-weight: 800px;
+    font-size: 35px;
+}
+.sponsor-description{
+    margin-bottom: 50px;
+}
+/* icon-section */
+.icon-section{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-bottom: 120px;
+}
+.picture-1
+{
+    width: 148px;
+    height: 34px;
+}
+.picture-2{
+    width: 130px;
+    height: 30px;
+}
+.picture-3{
+    width: 148px;
+    height: 34px; 
+}
+.picture-4{
+    width: 130px;
+    height: 34px;
+}
+.picture-5{
+    width: 165px;
+    height: 34px;
+}
+/* footer */
+.footer{
+   border-radius: 6px;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    margin-left: 340px;
+    margin-right: 240px;
+    background-color: rgba(255, 192, 203, 0.932);
+    margin-bottom: 20px;
+}
+.footer-description{
+    padding-top: 44px;
+}
+
